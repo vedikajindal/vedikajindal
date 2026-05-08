@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Vedika Jindal
 
-<!--
-**vedikajindal/vedikajindal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 2nd Year CSE Student | Aspiring AI/ML Engineer | Open to Summer Internships(June-July 2026)
 
-Here are some ideas to get you started:
+I’m currently pursuing B.Tech in Computer Science and actively building projects in AI/ML, Python, and Web Development.  
+Passionate about learning new technologies, solving real-world problems, and contributing to impactful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##  Tech Stack
+- **Languages:** Python, C++, JavaScript
+- **Libraries/Tools:** NumPy, Pandas, scikit-learn
+- **Web:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, VS Code
+
+##  Projects
+### [Outpass Approval System](https://github.com/vedikajindal/Hostel-Night-Outpass-Portal)
+Developed a Full-stack web portal digitizing hostel outpass System
+### [Resume Screener](https://github.com/vedikajindal/Resume-Screener)
+Trained a Logistic Regression + Random Forest ensemble on 600 synthetic samples
+
+---
+
+📧 [vedika.jindal7@gmail.com](mailto:vedika.jindal7@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vedika-jindal-4824aa31a/)
+
+---
+
+⭐ Open to internships, collaborations, and learning opportunities.
