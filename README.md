@@ -1,4 +1,5 @@
 # Hi, I'm Vedika Jindal
+📧 [vedika.jindal7@gmail.com](mailto:vedika.jindal7@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vedika-jindal-4824aa31a/)
 
 ### 2nd Year CSE Student | Aspiring AI/ML Engineer | Open to Summer Internships(June-July 2026)
 
@@ -17,10 +18,6 @@ Passionate about learning new technologies, solving real-world problems, and con
 Developed a Full-stack web portal digitizing hostel outpass System
 ### [Resume Screener](https://github.com/vedikajindal/Resume-Screener)
 Trained a Logistic Regression + Random Forest ensemble on 600 synthetic samples
-
----
-
-📧 [vedika.jindal7@gmail.com](mailto:vedika.jindal7@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vedika-jindal-4824aa31a/)
 
 ---
 
